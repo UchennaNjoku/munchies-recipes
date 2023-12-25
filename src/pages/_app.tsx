@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Munchies Recipes</title> 
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon-burger.ico" />
       </Head>
       <Component {...pageProps} />
     </>
